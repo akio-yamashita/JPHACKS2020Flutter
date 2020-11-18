@@ -1,0 +1,38 @@
+{
+  "material": {
+    "url": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf",
+    "author": "テスト作者",
+    "title": "テスト",
+    "uuid": "tNY0w0GRlbfLvg58"
+  },
+  "comments": [
+    {
+      "count": 2,
+      "number": 0,
+      "uuid": "zNGqdnrOg7bmyy0J",
+      "text": "コメント",
+      "material_uuid": "tNY0w0GRlbfLvg58"
+    },
+    {
+      "count": 2,
+      "number": 0,
+      "uuid": "zNGqdnrOg7bmyy0J",
+      "text": "コメントテスト",
+      "material_uuid": "tNY0w0GRlbfLvg58"
+    },
+    {
+      "count": 2,
+      "number": 0,
+      "uuid": "zNGqdnrOg7bmyy0J",
+      "text": "コメントテスト",
+      "material_uuid": "tNY0w0GRlbfLvg58"
+    },
+    {
+      "count": 0,
+      "number": 1,
+      "uuid": "pVNt23kwZby4QBxk",
+      "text": "コメントテスト",
+      "material_uuid": "tNY0w0GRlbfLvg58"
+    }
+  ]
+}
